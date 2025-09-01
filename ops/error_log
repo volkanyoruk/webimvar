@@ -37,3 +37,200 @@
 [31-Aug-2025 11:25:39 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/webimvar/public_html/core/config.php on line 66
 [31-Aug-2025 11:25:41 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/webimvar/public_html/core/config.php on line 66
 [31-Aug-2025 11:25:41 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/webimvar/public_html/core/config.php on line 66
+[01-Sep-2025 09:01:39 UTC] PHP Warning:  require_once(../config/database.php): Failed to open stream: No such file or directory in /home/webimvar/public_html/ops/check-database.php on line 3
+[01-Sep-2025 09:01:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/webimvar/public_html/ops/check-database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/webimvar/public_html/ops/check-database.php on line 3
+[01-Sep-2025 09:01:42 UTC] PHP Warning:  require_once(../config/database.php): Failed to open stream: No such file or directory in /home/webimvar/public_html/ops/check-database.php on line 3
+[01-Sep-2025 09:01:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../config/database.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/webimvar/public_html/ops/check-database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/webimvar/public_html/ops/check-database.php on line 3
+[01-Sep-2025 09:16:17 UTC] PHP Fatal error:  Uncaught Error: Class "DatabaseConfig" not found in /home/webimvar/public_html/core/classes/Database.php:35
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(15): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(23): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 35
+[01-Sep-2025 09:20:04 UTC] PHP Fatal error:  Uncaught Error: Class "DatabaseConfig" not found in /home/webimvar/public_html/core/classes/Database.php:35
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(15): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(23): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 35
+[01-Sep-2025 09:20:06 UTC] PHP Fatal error:  Uncaught Error: Class "DatabaseConfig" not found in /home/webimvar/public_html/core/classes/Database.php:35
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(15): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(23): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 35
+[01-Sep-2025 16:55:41 UTC] PHP Fatal error:  Uncaught Error: Class "DatabaseConfig" not found in /home/webimvar/public_html/core/classes/Database.php:35
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(15): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(23): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 35
+[01-Sep-2025 16:59:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant DatabaseConfig::HOST in /home/webimvar/public_html/core/classes/Database.php:38
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/fix-database-require.php(53): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 38
+[01-Sep-2025 17:00:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant DatabaseConfig::HOST in /home/webimvar/public_html/core/classes/Database.php:38
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 38
+[01-Sep-2025 17:00:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant DatabaseConfig::HOST in /home/webimvar/public_html/core/classes/Database.php:38
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 38
+[01-Sep-2025 17:01:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant DatabaseConfig::HOST in /home/webimvar/public_html/core/classes/Database.php:38
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/fix-database-require.php(53): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 38
+[01-Sep-2025 17:02:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant DatabaseConfig::HOST in /home/webimvar/public_html/core/classes/Database.php:38
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 38
+[01-Sep-2025 17:02:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant DatabaseConfig::HOST in /home/webimvar/public_html/core/classes/Database.php:38
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 38
+[01-Sep-2025 17:06:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DatabaseConfig::options() in /home/webimvar/public_html/core/classes/Database.php:47
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 47
+[01-Sep-2025 17:06:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DatabaseConfig::options() in /home/webimvar/public_html/core/classes/Database.php:47
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 47
+[01-Sep-2025 17:06:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DatabaseConfig::options() in /home/webimvar/public_html/core/classes/Database.php:47
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 47
+[01-Sep-2025 17:06:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DatabaseConfig::options() in /home/webimvar/public_html/core/classes/Database.php:47
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 47
+[01-Sep-2025 17:06:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DatabaseConfig::options() in /home/webimvar/public_html/core/classes/Database.php:47
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 47
+[01-Sep-2025 17:06:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DatabaseConfig::options() in /home/webimvar/public_html/core/classes/Database.php:47
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 47
+[01-Sep-2025 17:06:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DatabaseConfig::options() in /home/webimvar/public_html/core/classes/Database.php:47
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 47
+[01-Sep-2025 17:06:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DatabaseConfig::options() in /home/webimvar/public_html/core/classes/Database.php:47
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 47
+[01-Sep-2025 17:06:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DatabaseConfig::options() in /home/webimvar/public_html/core/classes/Database.php:47
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 47
+[01-Sep-2025 17:07:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DatabaseConfig::options() in /home/webimvar/public_html/core/classes/Database.php:47
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 47
+[01-Sep-2025 17:07:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DatabaseConfig::options() in /home/webimvar/public_html/core/classes/Database.php:47
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 47
+[01-Sep-2025 17:07:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DatabaseConfig::options() in /home/webimvar/public_html/core/classes/Database.php:47
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 47
+[01-Sep-2025 17:07:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DatabaseConfig::options() in /home/webimvar/public_html/core/classes/Database.php:47
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 47
+[01-Sep-2025 17:07:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DatabaseConfig::options() in /home/webimvar/public_html/core/classes/Database.php:47
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 47
+[01-Sep-2025 17:07:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DatabaseConfig::options() in /home/webimvar/public_html/core/classes/Database.php:47
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 47
+[01-Sep-2025 17:07:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DatabaseConfig::options() in /home/webimvar/public_html/core/classes/Database.php:47
+Stack trace:
+#0 /home/webimvar/public_html/core/classes/Database.php(18): Database->connect()
+#1 /home/webimvar/public_html/core/classes/Database.php(26): Database->__construct()
+#2 /home/webimvar/public_html/ops/users.php(10): Database::getInstance()
+#3 {main}
+  thrown in /home/webimvar/public_html/core/classes/Database.php on line 47
+[01-Sep-2025 17:10:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'WHERE' in /home/webimvar/public_html/ops/users.php:98
+Stack trace:
+#0 /home/webimvar/public_html/ops/users.php(98): PDO->query()
+#1 {main}
+  thrown in /home/webimvar/public_html/ops/users.php on line 98

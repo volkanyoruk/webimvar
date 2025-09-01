@@ -253,3 +253,67 @@ Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":71}
 [2025-09-01 06:57:33] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.001s
 [2025-09-01 06:58:38] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
 [2025-09-01 06:58:38] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'WHERE', SQL: SELECT COUNT(*) as count FROM sites WHERE is_active = 1 | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.004s
+[2025-09-01 08:28:49] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 08:54:54] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 11:38:25] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 11:38:25] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 11:38:25] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'WHERE', SQL: SELECT COUNT(*) as count FROM sites WHERE is_active = 1 | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.005s
+[2025-09-01 11:39:42] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 11:39:43] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 4 MB | Time: 0.002s
+[2025-09-01 11:39:44] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 4 MB | Time: 0.002s
+[2025-09-01 11:39:45] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 4 MB | Time: 0.002s
+[2025-09-01 11:39:45] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 4 MB | Time: 0.002s
+[2025-09-01 11:42:59] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 11:43:41] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 11:43:41] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'WHERE', SQL: SELECT COUNT(*) as count FROM sites WHERE is_active = 1 | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 11:43:58] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 11:43:58] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'WHERE', SQL: SELECT COUNT(*) as count FROM sites WHERE is_active = 1 | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 11:53:40] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 11:53:40] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'WHERE', SQL: SELECT COUNT(*) as count FROM sites WHERE is_active = 1 | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.004s
+[2025-09-01 11:53:47] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 11:53:47] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'WHERE', SQL: SELECT COUNT(*) as count FROM sites WHERE is_active = 1 | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 11:53:54] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.001s
+[2025-09-01 11:53:54] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'WHERE', SQL: SELECT COUNT(*) as count FROM sites WHERE is_active = 1 | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 11:54:14] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 11:54:14] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 's.user_id' in 'ON', SQL: 
+                SELECT 
+                    u.id,
+                    u.email,
+                    u.full_name,
+                    u.role,
+                    u.is_active,
+                    u.created_at,
+                    u.last_login,
+                    u.login_count,
+                    COUNT(s.id) as site_count
+                FROM users u
+                LEFT JOIN sites s ON u.id = s.user_id
+                
+                GROUP BY u.id
+                ORDER BY u.created_at DESC
+                LIMIT 20 OFFSET 0
+             | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 12:03:52] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 12:03:52] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'WHERE', SQL: SELECT COUNT(*) as count FROM sites WHERE is_active = 1 | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.004s
+[2025-09-01 12:19:53] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 12:19:53] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'WHERE', SQL: SELECT COUNT(*) as count FROM sites WHERE is_active = 1 | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 12:26:16] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 12:26:16] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'WHERE', SQL: SELECT COUNT(*) as count FROM sites WHERE is_active = 1 | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 12:31:02] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 12:31:02] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'WHERE', SQL: SELECT COUNT(*) as count FROM sites WHERE is_active = 1 | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.004s
+[2025-09-01 12:33:20] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 12:33:20] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'WHERE', SQL: SELECT COUNT(*) as count FROM sites WHERE is_active = 1 | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 12:33:21] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.004s
+[2025-09-01 12:33:32] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 12:37:50] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 12:37:57] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 12:39:19] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 12:39:23] INFO.SYSTEM: Database connection established | User: Guest | IP: 176.235.75.196 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 13:19:31] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 13:19:31] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'WHERE', SQL: SELECT COUNT(*) as count FROM sites WHERE is_active = 1 | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.005s
+[2025-09-01 13:19:41] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 19:50:42] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 19:50:42] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 19:50:42] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'WHERE', SQL: SELECT COUNT(*) as count FROM sites WHERE is_active = 1 | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.004s
+[2025-09-01 19:55:37] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 19:55:37] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'WHERE', SQL: SELECT COUNT(*) as count FROM sites WHERE is_active = 1 | User: 1 | IP: 5.27.19.89 | Memory: 2 MB | Time: 0.003s

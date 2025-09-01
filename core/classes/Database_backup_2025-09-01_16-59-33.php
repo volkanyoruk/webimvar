@@ -1,7 +1,4 @@
 <?php
-// DatabaseConfig require - otomatik eklendi
-require_once __DIR__ . '/DatabaseConfig.php';
-
 /**
  * Enterprise Database Class
  * Gelişmiş database yönetimi ve güvenlik özellikleri

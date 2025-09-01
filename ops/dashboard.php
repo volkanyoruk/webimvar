@@ -198,7 +198,7 @@ $systemHealth = [
                     <h3 class="text-lg font-semibold text-gray-900 mb-4">Hızlı İşlemler</h3>
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
                         <!-- Paket Yönetimi -->
-                        <a href="/ops/packages.php" class="quick-action p-4 text-left border border-gray-200 rounded-lg hover:border-purple-300 hover:bg-purple-50 transition group">
+                        <a href="/ops/Packages.php" class="quick-action p-4 text-left border border-gray-200 rounded-lg hover:border-purple-300 hover:bg-purple-50 transition group">
                             <div class="flex items-center space-x-3">
                                 <div class="w-10 h-10 bg-purple-100 rounded-lg flex items-center justify-center group-hover:bg-purple-200">
                                     <svg class="w-5 h-5 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">

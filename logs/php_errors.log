@@ -46,3 +46,17 @@
 [31-Aug-2025 19:55:07 Europe/Istanbul] [router] Call to undefined method Router::run()
 #0 {main}
 [01-Sep-2025 06:58:38 Europe/Istanbul] Dashboard stats error: Database query failed
+[01-Sep-2025 11:38:25 Europe/Istanbul] Dashboard stats error: Database query failed
+[01-Sep-2025 11:43:41 Europe/Istanbul] Dashboard stats error: Database query failed
+[01-Sep-2025 11:43:58 Europe/Istanbul] Dashboard stats error: Database query failed
+[01-Sep-2025 11:53:40 Europe/Istanbul] Dashboard stats error: Database query failed
+[01-Sep-2025 11:53:47 Europe/Istanbul] Dashboard stats error: Database query failed
+[01-Sep-2025 11:53:54 Europe/Istanbul] Dashboard stats error: Database query failed
+[01-Sep-2025 12:03:52 Europe/Istanbul] Dashboard stats error: Database query failed
+[01-Sep-2025 12:19:53 Europe/Istanbul] Dashboard stats error: Database query failed
+[01-Sep-2025 12:26:16 Europe/Istanbul] Dashboard stats error: Database query failed
+[01-Sep-2025 12:31:02 Europe/Istanbul] Dashboard stats error: Database query failed
+[01-Sep-2025 12:33:20 Europe/Istanbul] Dashboard stats error: Database query failed
+[01-Sep-2025 13:19:31 Europe/Istanbul] Dashboard stats error: Database query failed
+[01-Sep-2025 19:50:42 Europe/Istanbul] Dashboard stats error: Database query failed
+[01-Sep-2025 19:55:37 Europe/Istanbul] Dashboard stats error: Database query failed
