@@ -1,0 +1,13 @@
+[31-Aug-2025 03:51:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/webimvar/public_html/webimvar/api/config.php on line 15
+[31-Aug-2025 03:51:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/webimvar/public_html/webimvar/api/config.php on line 15
+[31-Aug-2025 03:51:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/webimvar/public_html/webimvar/api/config.php on line 15
+[31-Aug-2025 03:51:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/webimvar/public_html/webimvar/api/config.php on line 15
+[31-Aug-2025 03:52:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/webimvar/public_html/webimvar/api/config.php on line 15
+[31-Aug-2025 03:52:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/webimvar/public_html/webimvar/api/config.php on line 15
+[31-Aug-2025 03:52:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/webimvar/public_html/webimvar/api/config.php on line 15
+[31-Aug-2025 03:52:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/webimvar/public_html/webimvar/api/config.php on line 15
+[31-Aug-2025 22:20:42 UTC] PHP Warning:  require_once(../../api/config.php): Failed to open stream: No such file or directory in /home/webimvar/public_html/webimvar/ops/enterprise-stats.php on line 2
+[31-Aug-2025 22:20:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../api/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/webimvar/public_html/webimvar/ops/enterprise-stats.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/webimvar/public_html/webimvar/ops/enterprise-stats.php on line 2

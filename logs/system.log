@@ -1,0 +1,255 @@
+[2025-08-31 14:55:30] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 14:58:19] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:16:20] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 15:16:36] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.004s
+[2025-08-31 15:18:53] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 15:22:17] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:22:39] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 15:32:36] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":70}
+[2025-08-31 15:32:36] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:32:36] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":70}
+[2025-08-31 15:32:36] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:32:42] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":70}
+[2025-08-31 15:32:42] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:33:22] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":70}
+[2025-08-31 15:33:22] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.004s
+[2025-08-31 15:33:23] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":70}
+[2025-08-31 15:33:23] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:33:23] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":70}
+[2025-08-31 15:33:23] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:33:26] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":70}
+[2025-08-31 15:33:26] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:33:27] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":70}
+[2025-08-31 15:33:27] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:35:14] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":69}
+[2025-08-31 15:35:14] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:35:15] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":69}
+[2025-08-31 15:35:15] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:35:16] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":69}
+[2025-08-31 15:35:16] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 15:35:17] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":69}
+[2025-08-31 15:35:17] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:35:17] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":69}
+[2025-08-31 15:35:17] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:35:17] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":69}
+[2025-08-31 15:35:17] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:35:17] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":69}
+[2025-08-31 15:35:17] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 15:35:17] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":69}
+[2025-08-31 15:35:17] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:35:34] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":69}
+[2025-08-31 15:35:34] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 15:36:21] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":69}
+[2025-08-31 15:36:21] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 15:36:36] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":69}
+[2025-08-31 15:36:36] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 15:37:55] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":71}
+[2025-08-31 15:37:55] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 15:37:56] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":71}
+[2025-08-31 15:37:56] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 15:37:58] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":71}
+[2025-08-31 15:37:58] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:37:58] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":71}
+[2025-08-31 15:37:58] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 15:37:58] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":71}
+[2025-08-31 15:37:58] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:37:59] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":71}
+[2025-08-31 15:37:59] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:37:59] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":71}
+[2025-08-31 15:37:59] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:37:59] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":71}
+[2025-08-31 15:37:59] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:37:59] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":71}
+[2025-08-31 15:37:59] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:37:59] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":71}
+[2025-08-31 15:37:59] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:37:59] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":71}
+[2025-08-31 15:37:59] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 15:38:00] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":71}
+[2025-08-31 15:38:00] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 15:38:04] ERROR.SYSTEM: OPS FATAL: Call to undefined method Response::render() | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+Context: {"file":"\/home\/webimvar\/public_html\/ops\/index.php","line":71}
+[2025-08-31 15:38:04] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 15:44:07] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.004s
+[2025-08-31 15:44:07] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 15:44:07] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                FROM system_stats
+                WHERE metric_name = 'query_time_ms'
+                  AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY)
+             | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:32:09] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:32:09] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 19:32:09] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                FROM system_stats
+                WHERE metric_name = 'query_time_ms'
+                  AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY)
+             | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.005s
+[2025-08-31 19:37:07] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:37:07] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                  FROM system_stats
+                 WHERE metric_name = 'query_time_ms'
+                   AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY) | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.005s
+[2025-08-31 19:37:10] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:37:10] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                  FROM system_stats
+                 WHERE metric_name = 'query_time_ms'
+                   AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY) | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.004s
+[2025-08-31 19:37:11] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:37:11] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                  FROM system_stats
+                 WHERE metric_name = 'query_time_ms'
+                   AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY) | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.005s
+[2025-08-31 19:37:16] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:37:16] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                  FROM system_stats
+                 WHERE metric_name = 'query_time_ms'
+                   AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY) | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.004s
+[2025-08-31 19:37:16] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 19:37:16] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                  FROM system_stats
+                 WHERE metric_name = 'query_time_ms'
+                   AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY) | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:37:20] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 19:37:20] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                  FROM system_stats
+                 WHERE metric_name = 'query_time_ms'
+                   AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY) | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:37:21] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 19:37:21] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                  FROM system_stats
+                 WHERE metric_name = 'query_time_ms'
+                   AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY) | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:39:26] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:39:26] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                  FROM system_stats
+                 WHERE metric_name = 'query_time_ms'
+                   AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY) | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.005s
+[2025-08-31 19:39:29] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 19:39:29] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                  FROM system_stats
+                 WHERE metric_name = 'query_time_ms'
+                   AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY) | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:39:30] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 19:39:30] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                  FROM system_stats
+                 WHERE metric_name = 'query_time_ms'
+                   AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY) | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:39:30] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 19:39:30] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                  FROM system_stats
+                 WHERE metric_name = 'query_time_ms'
+                   AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY) | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:39:31] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 19:39:31] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                  FROM system_stats
+                 WHERE metric_name = 'query_time_ms'
+                   AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY) | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:40:25] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 19:40:25] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                  FROM system_stats
+                 WHERE metric_name = 'query_time_ms'
+                   AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY) | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:40:32] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:40:32] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+    SELECT ROUND(AVG(metric_value),2) ms FROM system_stats
+    WHERE metric_name='query_time_ms' AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY)
+   | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.004s
+[2025-08-31 19:41:06] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:41:06] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                  FROM system_stats
+                 WHERE metric_name = 'query_time_ms'
+                   AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY) | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.004s
+[2025-08-31 19:43:28] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 19:43:28] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: 
+                SELECT ROUND(AVG(metric_value),2) AS ms
+                  FROM system_stats
+                 WHERE metric_name = 'query_time_ms'
+                   AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY) | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.004s
+[2025-08-31 21:43:25] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 21:49:27] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 21:49:27] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 21:53:55] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 21:53:57] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 21:53:58] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 21:53:58] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 22:36:43] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-08-31 22:36:44] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-08-31 22:36:44] ERROR.SYSTEM: Query error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'webimvar_enterprise.system_stats' doesn't exist, SQL: SELECT AVG(metric_value) c FROM system_stats WHERE metric_name='query_ms' AND recorded_at >= DATE_SUB(NOW(), INTERVAL 1 DAY) | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.004s
+[2025-09-01 00:38:59] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 00:38:59] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.001s
+[2025-09-01 01:13:11] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 01:14:45] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 01:14:48] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 01:16:56] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 01:18:15] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 01:18:17] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 01:18:18] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 01:18:18] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.001s
+[2025-09-01 01:18:19] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 01:18:45] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 01:19:00] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 01:19:11] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 06:41:36] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.003s
+[2025-09-01 06:41:41] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 06:42:50] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 06:45:08] INFO.SYSTEM: Database connection established | User: Guest | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 06:45:09] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.001s
+[2025-09-01 06:51:10] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 06:51:12] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 06:51:13] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 06:51:13] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 06:51:13] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 06:51:13] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 06:51:13] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 06:57:30] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 06:57:32] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 06:57:33] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.001s
+[2025-09-01 06:58:38] INFO.SYSTEM: Database connection established | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.002s
+[2025-09-01 06:58:38] ERROR.SYSTEM: Query error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'WHERE', SQL: SELECT COUNT(*) as count FROM sites WHERE is_active = 1 | User: 1 | IP: 5.25.162.196 | Memory: 2 MB | Time: 0.004s

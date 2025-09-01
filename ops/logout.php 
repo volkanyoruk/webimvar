@@ -1,0 +1,12 @@
+<?php
+// ops/logout.php - Basit çıkış dosyası
+define('WEBIMVAR_ENTERPRISE', true);
+
+require __DIR__ . '/../core/config.php';
+require __DIR__ . '/../core/classes/Session.php';
+
+Session::start();
+Session::destroy();
+
+header('Location: /ops/login.php');
+exit;

@@ -1,0 +1,48 @@
+[31-Aug-2025 14:30:03 Europe/Istanbul] PHP Fatal error:  Cannot declare class Response, because the name is already in use in /home/webimvar/public_html/core/classes/TemplateEngine.php on line 197
+[31-Aug-2025 14:30:27 Europe/Istanbul] PHP Fatal error:  Cannot declare class Response, because the name is already in use in /home/webimvar/public_html/core/classes/TemplateEngine.php on line 197
+[31-Aug-2025 15:13:33 Europe/Istanbul] PHP Fatal error:  Type of User::$table must not be defined (as in class Model) in /home/webimvar/public_html/ops/models/User.php on line 4
+[31-Aug-2025 19:51:02 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:02 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:03 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:04 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:04 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:04 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:04 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:05 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:05 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:05 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:06 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:06 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:06 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:38 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:42 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:44 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:45 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:45 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:46 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:46 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:54:46 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[31-Aug-2025 19:55:07 Europe/Istanbul] [router] Call to undefined method Router::run()
+#0 {main}
+[01-Sep-2025 06:58:38 Europe/Istanbul] Dashboard stats error: Database query failed

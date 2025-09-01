@@ -1,0 +1,20 @@
+[30-Aug-2025 05:03:31 UTC] PHP Warning:  require_once(../api/config.php): Failed to open stream: No such file or directory in /home/webimvar/public_html/webimvar/sites/index.php on line 3
+[30-Aug-2025 05:03:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../api/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/webimvar/public_html/webimvar/sites/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/webimvar/public_html/webimvar/sites/index.php on line 3
+[30-Aug-2025 15:12:17 UTC] PHP Warning:  require_once(../api/config.php): Failed to open stream: No such file or directory in /home/webimvar/public_html/webimvar/sites/index.php on line 3
+[30-Aug-2025 15:12:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../api/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/webimvar/public_html/webimvar/sites/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/webimvar/public_html/webimvar/sites/index.php on line 3
+[30-Aug-2025 15:12:17 UTC] PHP Warning:  require_once(../api/config.php): Failed to open stream: No such file or directory in /home/webimvar/public_html/webimvar/sites/index.php on line 3
+[30-Aug-2025 15:12:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../api/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/webimvar/public_html/webimvar/sites/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/webimvar/public_html/webimvar/sites/index.php on line 3
+[30-Aug-2025 15:12:17 UTC] PHP Warning:  require_once(../api/config.php): Failed to open stream: No such file or directory in /home/webimvar/public_html/webimvar/sites/index.php on line 3
+[30-Aug-2025 15:12:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../api/config.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/webimvar/public_html/webimvar/sites/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/webimvar/public_html/webimvar/sites/index.php on line 3

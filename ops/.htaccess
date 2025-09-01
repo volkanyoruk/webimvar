@@ -1,0 +1,45 @@
+# Webimvar Ops - .htaccess
+# Konum: /public_html/ops/.htaccess
+
+# 1) Güvenlik/temel ayarlar
+Options -Indexes -MultiViews
+AddDefaultCharset UTF-8
+
+# Duyarlı dosyaları kapat
+<FilesMatch "^(composer\.(json|lock)|\.env|config\.php)$">
+  Require all denied
+</FilesMatch>
+
+# 2) Pretty URL ve yönlendirmeler
+RewriteEngine On
+RewriteBase /ops/
+
+# Var olan dosya/klasörleri aynen servis et
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# ---- Route'lar (Kolay Yol: tek tek PHP dosyalarına gider) ----
+# /ops/ -> login.php
+RewriteRule ^$ login.php [L,QSA]
+
+# /ops/login -> login.php
+RewriteRule ^login/?$ login.php [L,QSA]
+
+# /ops/dashboard -> dashboard.php
+RewriteRule ^dashboard/?$ dashboard.php [L,QSA]
+
+# /ops/logout -> logout.php (varsa)
+RewriteRule ^logout/?$ logout.php [L,QSA]
+
+# /ops/users -> users.php (varsa)
+RewriteRule ^users/?$ users.php [L,QSA]
+
+# /ops/util/... -> util klasörü içindeki dosyalar
+RewriteRule ^util/(.*)$ util/$1 [L,QSA]
+
+# Varsa assets klasörü
+RewriteRule ^assets/(.*)$ assets/$1 [L,QSA]
+
+# Eşleşmeyen her şey 404'e düşsün (404.php yoksa kaldırın)
+#RewriteRule ^.*$ 404.php [L]
